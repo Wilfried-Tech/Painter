@@ -1,0 +1,29 @@
+{
+  "name": "Painter",
+  "version": "1.0.0",
+  "description": "JavaScript Library to perform drawing on canvas",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo 'nothing'",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilfried-Tech/Painter.git"
+  },
+  "keywords": [
+    "Wilfried-Tech",
+    "JavaScript",
+    "Painter",
+    "Drawing",
+    "Canvas"
+  ],
+  "author": "Wilfried-Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilfried-Tech/Painter/issues"
+  },
+  "homepage": "https://github.com/Wilfried-Tech/Painter#readme"
+}
